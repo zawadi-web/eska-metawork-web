@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects | ESKA Metalworks – Our Portfolio Gallery</title>
+  <meta name="description" content="Browse ESKA Metalworks' project gallery — structural steel, welding, custom fabrication, industrial installations, and gate projects across Kenya.">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- GLightbox -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="navbar__inner">
+      <a href="index.html" class="navbar__logo">
+        <div class="navbar__logo-icon">E</div>
+        <div class="navbar__logo-text">
+          <span class="navbar__logo-name">ESKA</span>
+          <span class="navbar__logo-sub">Metalworks</span>
+        </div>
+      </a>
+      <div class="navbar__links">
+        <a href="index.html" class="navbar__link">Home</a>
+        <a href="about.html" class="navbar__link">About</a>
+        <a href="services.html" class="navbar__link">Services</a>
+        <a href="projects.html" class="navbar__link active">Projects</a>
+      </div>
+      <a href="quote.html" class="navbar__cta">Get a Quote</a>
+      <div class="navbar__hamburger"><span></span><span></span><span></span></div>
+    </div>
+  </nav>
+  <div class="navbar__mobile">
+    <a href="index.html" class="navbar__link">Home</a>
+    <a href="about.html" class="navbar__link">About</a>
+    <a href="services.html" class="navbar__link">Services</a>
+    <a href="projects.html" class="navbar__link">Projects</a>
+    <a href="quote.html" class="btn btn-primary" style="margin-top:1rem;">Get a Quote</a>
+  </div>
+
+  <!-- Page Hero -->
+  <section class="page-hero">
+    <div class="page-hero__bg" style="background-image:url('images/service-industrial.jpg');"></div>
+    <div class="page-hero__overlay"></div>
+    <div class="container page-hero__content">
+      <span class="section-tag animate-on-scroll from-left delay-1">Portfolio</span>
+      <h1 class="page-hero__title animate-on-scroll from-left delay-2">Our <span class="accent">Projects</span></h1>
+      <p class="page-hero__desc animate-on-scroll from-left delay-3">Explore completed work across structural, custom, and industrial metal fabrication projects throughout Kenya.</p>
+    </div>
+  </section>
+
+  <!-- Gallery Section -->
+  <section class="section section--dark-2">
+    <div class="container">
+      <div class="section-header section-header--center animate-on-scroll">
+        <span class="section-tag">Gallery</span>
+        <h2 class="section-title">Explore Our <span>Work</span></h2>
+        <p class="section-subtitle">Filter by category to find projects relevant to your needs. Click any image to view full size.</p>
+      </div>
+
+      <!-- Filter Tabs -->
+      <div class="gallery-filters animate-on-scroll" id="gallery-filters">
+        <button class="gallery-filter active" data-filter="all">All Projects</button>
+        <button class="gallery-filter" data-filter="gates">Gates &amp; Automation</button>
+        <button class="gallery-filter" data-filter="doors">Doors &amp; Entries</button>
+        <button class="gallery-filter" data-filter="windows">Windows &amp; Grilles</button>
+        <button class="gallery-filter" data-filter="shades">Carshades &amp; Pergolas</button>
+        <button class="gallery-filter" data-filter="custom">Railings &amp; Custom</button>
+      </div>
+
+      <!-- Gallery Grid (loaded from gallery.json) -->
+      <div class="gallery-grid" id="gallery-grid"></div><!-- /#gallery-grid -->
+
+      <!-- No Results -->
+      <div id="gallery-empty" class="gallery-empty" style="display:none;">
+        <i class="fas fa-images"></i>
+        <p>No projects found in this category.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="section section--dark">
+    <div class="container text-center">
+      <div class="cta-box animate-on-scroll">
+        <span class="section-tag">Start Your Project</span>
+        <h2 class="section-title" style="margin:var(--space-4) 0;">Inspired by Our <span>Work?</span></h2>
+        <p style="max-width:600px;margin:0 auto var(--space-8);">Let's build something together. Contact us for a free consultation and quote on your metalwork project.</p>
+        <div style="display:flex;gap:var(--space-4);justify-content:center;flex-wrap:wrap;">
+          <a href="quote.html" class="btn btn-primary">Request a Quote</a>
+          <a href="https://wa.me/254708433265" class="btn btn-outline contact-whatsapp-link" target="_blank" rel="noopener noreferrer"><img src="images/icons/whatsapp.svg" class="app-icon" alt="WhatsApp"> WhatsApp Us</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div class="animate-on-scroll delay-1">
+          <a href="index.html" class="navbar__logo" style="margin-bottom:var(--space-4);">
+            <div class="navbar__logo-icon">E</div>
+            <div class="navbar__logo-text">
+              <span class="navbar__logo-name">ESKA</span>
+              <span class="navbar__logo-sub">Metalworks</span>
+            </div>
+          </a>
+          <p class="footer__brand-desc">Premium steel fabrication and welding services in Kikuyu, Kenya. Built with strength, precision, and integrity.</p>
+        </div>
+        <div class="animate-on-scroll delay-2">
+          <h4 class="footer__heading">Quick Links</h4>
+          <div class="footer__links">
+            <a href="index.html" class="footer__link"><i class="fas fa-chevron-right"></i> Home</a>
+            <a href="about.html" class="footer__link"><i class="fas fa-chevron-right"></i> About Us</a>
+            <a href="services.html" class="footer__link"><i class="fas fa-chevron-right"></i> Services</a>
+            <a href="projects.html" class="footer__link"><i class="fas fa-chevron-right"></i> Projects</a>
+          </div>
+        </div>
+        <div class="animate-on-scroll delay-3">
+          <h4 class="footer__heading">Services</h4>
+          <div class="footer__links">
+            <a href="services.html" class="footer__link"><i class="fas fa-chevron-right"></i> Structural Steel</a>
+            <a href="services.html" class="footer__link"><i class="fas fa-chevron-right"></i> Welding</a>
+            <a href="services.html" class="footer__link"><i class="fas fa-chevron-right"></i> Custom Fab</a>
+            <a href="services.html" class="footer__link"><i class="fas fa-chevron-right"></i> Installation</a>
+          </div>
+        </div>
+        <div class="animate-on-scroll delay-4">
+          <h4 class="footer__heading">Contact</h4>
+          <div class="footer__contact-item">
+            <img src="images/icons/phone.svg" class="app-icon" alt="Phone">
+            <div class="footer__contact-text">
+              <a href="tel:+254708433265" class="contact-phone-link"><span class="contact-phone-text">0708 433 265</span></a>
+            </div>
+          </div>
+          <div class="footer__contact-item">
+            <img src="images/icons/whatsapp.svg" class="app-icon" alt="WhatsApp">
+            <div class="footer__contact-text">
+              <a href="https://wa.me/254708433265" class="contact-whatsapp-link" target="_blank" rel="noopener noreferrer"><span class="contact-phone-text">0708 433 265</span></a>
+            </div>
+          </div>
+          <div class="footer__contact-item">
+            <img src="images/icons/email.svg" class="app-icon" alt="Email">
+            <div class="footer__contact-text">
+              <a href="mailto:hello@eskametalworks.co.ke" class="contact-email-link"><span class="contact-email-text">hello@eskametalworks.co.ke</span></a>
+            </div>
+          </div>
+          <div class="footer__contact-item">
+            <i class="fas fa-map-marker-alt footer__contact-icon"></i>
+            <div class="footer__contact-text">Kikuyu, Kenya</div>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <div class="footer__copy">&copy; 2026 ESKA Metalworks. All Rights Reserved.</div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- FABs -->
+  <div class="fab-group">
+    <a href="https://wa.me/254708433265" class="fab fab-whatsapp contact-whatsapp-link" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Us">
+      <img src="images/icons/whatsapp.svg" class="app-icon" alt="WhatsApp"><span class="fab-tooltip">WhatsApp Us</span>
+    </a>
+    <a href="tel:+254708433265" class="fab fab-phone contact-phone-link" aria-label="Call Us">
+      <img src="images/icons/phone.svg" class="app-icon" alt="Phone"><span class="fab-tooltip">Call Us</span>
+    </a>
+    <a href="mailto:hello@eskametalworks.co.ke" class="fab fab-email contact-email-link" aria-label="Email Us">
+      <img src="images/icons/email.svg" class="app-icon" alt="Email"><span class="fab-tooltip">Email Us</span>
+    </a>
+  </div>
+  <button id="back-top" class="fab fab-top" style="position:fixed;bottom:var(--space-8);left:var(--space-6);background:var(--color-dark-4);opacity:0;pointer-events:none;box-shadow:none;" aria-label="Back to Top">
+    <i class="fas fa-chevron-up"></i>
+  </button>
+
+  <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/gallery.js"></script>
+  <script src="js/settings-loader.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,900 @@
+{
+    "images": [
+        {
+            "id": "shades_1",
+            "file": "uploads/gallery/eska_shade_1.jpg",
+            "title": "Modern Designer Pergola",
+            "category": "shades",
+            "uploaded": "2026-07-02 16:51:30"
+        },
+        {
+            "id": "shades_2",
+            "file": "uploads/gallery/eska_shade_2.jpg",
+            "title": "Minimalist Outdoor Pergola",
+            "category": "shades",
+            "uploaded": "2026-07-02 16:51:30"
+        },
+        {
+            "id": "shades_3",
+            "file": "uploads/gallery/eska_shade_3.jpg",
+            "title": "Premium Steel Pergola with Vertical Planters",
+            "category": "shades",
+            "uploaded": "2026-07-02 16:51:30"
+        },
+        {
+            "id": "shades_4",
+            "file": "uploads/gallery/eska_shade_4.jpg",
+            "title": "Modern Steel-Wood Pergola",
+            "category": "shades",
+            "uploaded": "2026-07-02 16:51:30"
+        },
+        {
+            "id": "shades_5",
+            "file": "uploads/gallery/eska_shade_5.jpg",
+            "title": "Luxury Garden Pergola",
+            "category": "shades",
+            "uploaded": "2026-07-02 16:51:30"
+        },
+        {
+            "id": "6a0435626114a",
+            "file": "uploads/gallery/eska_6a0435625ebc88.52891418.jpeg",
+            "title": "Ornate Steel Entry Door",
+            "category": "doors",
+            "uploaded": "2026-05-13 08:25:06"
+        },
+        {
+            "id": "6a0435707c0e4",
+            "file": "uploads/gallery/eska_6a0435707b8dd0.51392552.jpeg",
+            "title": "Industrial Steel Gate",
+            "category": "gates",
+            "uploaded": "2026-05-13 08:25:20"
+        },
+        {
+            "id": "97b8827eac394",
+            "file": "uploads/gallery/eska_97b8827eac394.jpeg",
+            "title": "Estate Security Gate",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "1af38eefba614",
+            "file": "uploads/gallery/eska_1af38eefba614.jpeg",
+            "title": "Modern Residential Gate",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "1878bb5233144",
+            "file": "uploads/gallery/eska_1878bb5233144.jpeg",
+            "title": "Double-Swing Steel Gate",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "6096121ea83e4",
+            "file": "uploads/gallery/eska_6096121ea83e4.jpeg",
+            "title": "Automated Security Gate",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "ebf68676ce954",
+            "file": "uploads/gallery/eska_ebf68676ce954.jpeg",
+            "title": "Double-Swing Steel Gate",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "a14fe72523894",
+            "file": "uploads/gallery/eska_a14fe72523894.jpeg",
+            "title": "Heavy-Duty Sliding Gate",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "8d7f38001f644",
+            "file": "uploads/gallery/eska_8d7f38001f644.jpeg",
+            "title": "Heavy-Duty Sliding Gate",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "ad77921168dd4",
+            "file": "uploads/gallery/eska_ad77921168dd4.jpeg",
+            "title": "Automated Security Gate",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "bc01c8e95ccd4",
+            "file": "uploads/gallery/eska_bc01c8e95ccd4.jpeg",
+            "title": "Estate Security Gate",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "c689144ffdee4",
+            "file": "uploads/gallery/eska_c689144ffdee4.mp4",
+            "title": "Heavy-Duty Sliding Gate",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "98e19b6e0f964",
+            "file": "uploads/gallery/eska_98e19b6e0f964.mp4",
+            "title": "Double-Swing Steel Gate",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "65c112655e4a4",
+            "file": "uploads/gallery/eska_65c112655e4a4.mp4",
+            "title": "Automated Security Gate",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "761560689e154",
+            "file": "uploads/gallery/eska_761560689e154.mp4",
+            "title": "Estate Security Gate Video",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "6a04359f46d4a",
+            "file": "uploads/gallery/eska_6a04359f455a35.39365091.jpeg",
+            "title": "Steel Security Door",
+            "category": "doors",
+            "uploaded": "2026-05-13 08:26:07"
+        },
+        {
+            "id": "40c04729581a4",
+            "file": "uploads/gallery/eska_40c04729581a4.jpeg",
+            "title": "Geometric Laser-Cut Door",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "ca8dc0ee12c94",
+            "file": "uploads/gallery/eska_ca8dc0ee12c94.jpeg",
+            "title": "Heavy-Duty Security Door",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "61a88f4411354",
+            "file": "uploads/gallery/eska_61a88f4411354.jpeg",
+            "title": "Custom Steel Office Door",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "2dc53d4dc36d4",
+            "file": "uploads/gallery/eska_2dc53d4dc36d4.jpeg",
+            "title": "Custom Steel Office Door",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "5c2aa99509dd4",
+            "file": "uploads/gallery/eska_5c2aa99509dd4.jpeg",
+            "title": "Steel Security Frame Door",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "ac0f53dce0394",
+            "file": "uploads/gallery/eska_ac0f53dce0394.jpeg",
+            "title": "Reinforced Steel Facade Door",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "966bf555d2a34",
+            "file": "uploads/gallery/eska_966bf555d2a34.jpeg",
+            "title": "Glass-Paneled Steel Entry",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "ad7cf9fa92b34",
+            "file": "uploads/gallery/eska_ad7cf9fa92b34.jpeg",
+            "title": "Glass-Paneled Steel Entry",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "5e4ad8694c644",
+            "file": "uploads/gallery/eska_5e4ad8694c644.jpeg",
+            "title": "Reinforced Steel Facade Door",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "2b710fcbc0614",
+            "file": "uploads/gallery/eska_2b710fcbc0614.jpeg",
+            "title": "Geometric Laser-Cut Door",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "95907cb496ed4",
+            "file": "uploads/gallery/eska_95907cb496ed4.jpeg",
+            "title": "Heavy-Duty Security Door",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "711ef1357b4f4",
+            "file": "uploads/gallery/eska_711ef1357b4f4.mp4",
+            "title": "Geometric Laser-Cut Door",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "22b30657d58f4",
+            "file": "uploads/gallery/eska_22b30657d58f4.mp4",
+            "title": "Glass-Paneled Steel Entry",
+            "category": "doors",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "6a043585a57fd",
+            "file": "uploads/gallery/eska_6a043585a52dd6.73601788.jpeg",
+            "title": "Custom Steel Window Frame",
+            "category": "windows",
+            "uploaded": "2026-05-13 08:25:41"
+        },
+        {
+            "id": "43701a8333fc4",
+            "file": "uploads/gallery/eska_43701a8333fc4.jpeg",
+            "title": "Burglar-Proof Window Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "0b591214c0344",
+            "file": "uploads/gallery/eska_0b591214c0344.jpeg",
+            "title": "Security Window Frame",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "e1cb785643144",
+            "file": "uploads/gallery/eska_e1cb785643144.jpeg",
+            "title": "Security Window Frame with Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "44e11bc695a34",
+            "file": "uploads/gallery/eska_44e11bc695a34.jpeg",
+            "title": "Security Window Frame with Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "551236209f864",
+            "file": "uploads/gallery/eska_551236209f864.jpeg",
+            "title": "Security Window Frame with Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "9b608814c6744",
+            "file": "uploads/gallery/eska_9b608814c6744.jpeg",
+            "title": "Security Window Frame with Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "ff5818dc8e1e4",
+            "file": "uploads/gallery/eska_ff5818dc8e1e4.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "ed509bf06fab4",
+            "file": "uploads/gallery/eska_ed509bf06fab4.jpeg",
+            "title": "Custom Steel Window Frame",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "4dc0e96b7f7f4",
+            "file": "uploads/gallery/eska_4dc0e96b7f7f4.jpeg",
+            "title": "Security Window Frame with Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "bc8fe34b16344",
+            "file": "uploads/gallery/eska_bc8fe34b16344.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "d24482597d3a4",
+            "file": "uploads/gallery/eska_d24482597d3a4.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "cb87e58e28a54",
+            "file": "uploads/gallery/eska_cb87e58e28a54.jpeg",
+            "title": "Custom Steel Window Frame",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "1ce214ccad6d4",
+            "file": "uploads/gallery/eska_1ce214ccad6d4.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "4e20c7b572b24",
+            "file": "uploads/gallery/eska_4e20c7b572b24.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "4efdf32955a94",
+            "file": "uploads/gallery/eska_4efdf32955a94.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "49cf961692264",
+            "file": "uploads/gallery/eska_49cf961692264.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "570ab4e04c2c4",
+            "file": "uploads/gallery/eska_570ab4e04c2c4.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "a2d0e6bb9d354",
+            "file": "uploads/gallery/eska_a2d0e6bb9d354.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "e956559b69d64",
+            "file": "uploads/gallery/eska_e956559b69d64.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "14174f75a5ad4",
+            "file": "uploads/gallery/eska_14174f75a5ad4.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "998c713ed4a54",
+            "file": "uploads/gallery/eska_998c713ed4a54.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "122bc4cff1a94",
+            "file": "uploads/gallery/eska_122bc4cff1a94.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "371a0f0178934",
+            "file": "uploads/gallery/eska_371a0f0178934.jpeg",
+            "title": "Burglar-Proof Window Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "62ff7aa32c754",
+            "file": "uploads/gallery/eska_62ff7aa32c754.jpeg",
+            "title": "Security Window Frame with Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "6ab76be18dbf4",
+            "file": "uploads/gallery/eska_6ab76be18dbf4.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "5d538541f4014",
+            "file": "uploads/gallery/eska_5d538541f4014.jpeg",
+            "title": "Custom Steel Window Frame",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "832af085714e4",
+            "file": "uploads/gallery/eska_832af085714e4.jpeg",
+            "title": "Security Window Frame with Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "96fd4836e1e94",
+            "file": "uploads/gallery/eska_96fd4836e1e94.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "8ca18fa0ce1f4",
+            "file": "uploads/gallery/eska_8ca18fa0ce1f4.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "626a2d5fa8e04",
+            "file": "uploads/gallery/eska_626a2d5fa8e04.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "62aacac9c29f4",
+            "file": "uploads/gallery/eska_62aacac9c29f4.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "b813aac880dc4",
+            "file": "uploads/gallery/eska_b813aac880dc4.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "6bef302acf094",
+            "file": "uploads/gallery/eska_6bef302acf094.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "ff757174d7414",
+            "file": "uploads/gallery/eska_ff757174d7414.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "3a2cca8c9a1c4",
+            "file": "uploads/gallery/eska_3a2cca8c9a1c4.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "042823fdb7ff4",
+            "file": "uploads/gallery/eska_042823fdb7ff4.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "ec96638121964",
+            "file": "uploads/gallery/eska_ec96638121964.jpeg",
+            "title": "Security Window Frame",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "623baf343dc04",
+            "file": "uploads/gallery/eska_623baf343dc04.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "11690c49d6f34",
+            "file": "uploads/gallery/eska_11690c49d6f34.jpeg",
+            "title": "Steel Window Burglar-Proof Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "1d21e3c3344f4",
+            "file": "uploads/gallery/eska_1d21e3c3344f4.jpeg",
+            "title": "Premium Staircase Window Frame",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "e88192d90c274",
+            "file": "uploads/gallery/eska_e88192d90c274.jpeg",
+            "title": "Arched Steel Window Frame",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "ac30715daefe4",
+            "file": "uploads/gallery/eska_ac30715daefe4.mp4",
+            "title": "Security Window Frame with Grilles",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "6a0435adf1era",
+            "file": "uploads/gallery/eska_6a0435adf18309.29619809.jpeg",
+            "title": "Custom Welded Fittings",
+            "category": "custom",
+            "uploaded": "2026-05-13 08:26:21"
+        },
+        {
+            "id": "6977b0dc6e244",
+            "file": "uploads/gallery/eska_6977b0dc6e244.mp4",
+            "title": "Steel Gate Workshop Fabrication",
+            "category": "gates",
+            "uploaded": "2026-06-11 21:21:16"
+        },
+        {
+            "id": "ca943efcb8ce4",
+            "file": "uploads/gallery/eska_ca943efcb8ce4.mp4",
+            "title": "Arched Window Grille Installation",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "552a1f33a6cb4",
+            "file": "uploads/gallery/eska_552a1f33a6cb4.mp4",
+            "title": "Precision Window Cutting & Assembly",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "5c5ecee16ee94",
+            "file": "uploads/gallery/eska_5c5ecee16ee94.mp4",
+            "title": "Sliding Window Installation Demo",
+            "category": "windows",
+            "uploaded": "2026-06-11 21:21:17"
+        },
+        {
+            "id": "new_gate_1",
+            "file": "uploads/gallery/eska_new_gate_1.jpeg",
+            "title": "Elegant Double-Swing Steel Gate",
+            "category": "gates",
+            "uploaded": "2026-07-04 09:19:55"
+        },
+        {
+            "id": "new_gate_2",
+            "file": "uploads/gallery/eska_new_gate_2.jpeg",
+            "title": "Modern Dark Steel Sliding Gate",
+            "category": "gates",
+            "uploaded": "2026-07-04 09:19:55"
+        },
+        {
+            "id": "new_gate_3",
+            "file": "uploads/gallery/eska_new_gate_3.jpeg",
+            "title": "Premium Grey Gate with Nested Rectangle Design",
+            "category": "gates",
+            "uploaded": "2026-07-04 09:19:55"
+        },
+        {
+            "id": "new_gate_4",
+            "file": "uploads/gallery/eska_new_gate_4.jpeg",
+            "title": "Modern Sliding Gate with Lattice Top",
+            "category": "gates",
+            "uploaded": "2026-07-04 09:19:55"
+        },
+        {
+            "id": "new_gate_5",
+            "file": "uploads/gallery/eska_new_gate_5.jpeg",
+            "title": "Classic Brown Estate Gate",
+            "category": "gates",
+            "uploaded": "2026-07-04 09:19:55"
+        },
+        {
+            "id": "new_door_1",
+            "file": "uploads/gallery/eska_new_door_1.jpeg",
+            "title": "Premium Grey Steel Security Door",
+            "category": "doors",
+            "uploaded": "2026-07-04 09:19:55"
+        },
+        {
+            "id": "new_door_2",
+            "file": "uploads/gallery/eska_new_door_2.jpeg",
+            "title": "Minimalist Dark Steel Door",
+            "category": "doors",
+            "uploaded": "2026-07-04 09:19:55"
+        },
+        {
+            "id": "new_door_3",
+            "file": "uploads/gallery/eska_new_door_3.jpeg",
+            "title": "Blue Geometric Steel Entry Door",
+            "category": "doors",
+            "uploaded": "2026-07-04 09:19:55"
+        },
+        {
+            "id": "new_shade_1",
+            "file": "uploads/gallery/eska_new_shade_1.jpeg",
+            "title": "Arched Tensile Carshade with Laser-Cut Brackets",
+            "category": "shades",
+            "uploaded": "2026-07-04 09:19:55"
+        },
+        {
+            "id": "new_custom_1",
+            "file": "uploads/gallery/eska_new_custom_1.jpeg",
+            "title": "Laser-Cut Decorative Steel Panel",
+            "category": "custom",
+            "uploaded": "2026-07-04 09:19:55"
+        },
+        {
+            "id": "new_custom_2",
+            "file": "uploads/gallery/eska_new_custom_2.jpeg",
+            "title": "Ornate Leaf-Pattern Gate with Wicket",
+            "category": "custom",
+            "uploaded": "2026-07-04 09:19:55"
+        },
+        {
+            "id": "new_custom_3",
+            "file": "uploads/gallery/eska_new_custom_3.jpeg",
+            "title": "Elegant Steel Staircase Railing",
+            "category": "custom",
+            "uploaded": "2026-07-04 09:19:56"
+        },
+        {
+            "id": "recent_33c2876fce09",
+            "file": "uploads/gallery/eska_recent_33c2876fce09.jpeg",
+            "title": "Premium Gold-Accent Security Gate",
+            "category": "gates",
+            "uploaded": "2026-07-04 12:42:45"
+        },
+        {
+            "id": "recent_1a1919c640cf",
+            "file": "uploads/gallery/eska_recent_1a1919c640cf.jpeg",
+            "title": "Premium Custom Steel Gate",
+            "category": "gates",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_6636bec6beec",
+            "file": "uploads/gallery/eska_recent_6636bec6beec.jpeg",
+            "title": "Modern Steel Security Door",
+            "category": "doors",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_915d659a2434",
+            "file": "uploads/gallery/eska_recent_915d659a2434.jpeg",
+            "title": "Modern Steel Security Door",
+            "category": "doors",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_fb593521517f",
+            "file": "uploads/gallery/eska_recent_fb593521517f.jpeg",
+            "title": "Modern Steel Security Door",
+            "category": "doors",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_a88d15649df8",
+            "file": "uploads/gallery/eska_recent_a88d15649df8.jpeg",
+            "title": "Modern Steel Security Door",
+            "category": "doors",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_2d99fba056aa",
+            "file": "uploads/gallery/eska_recent_2d99fba056aa.jpeg",
+            "title": "Modern Steel Security Door",
+            "category": "doors",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_35374d811cd6",
+            "file": "uploads/gallery/eska_recent_35374d811cd6.jpeg",
+            "title": "Modern Steel Security Door",
+            "category": "doors",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_5a81e1b17fea",
+            "file": "uploads/gallery/eska_recent_5a81e1b17fea.jpeg",
+            "title": "Modern Steel Security Door",
+            "category": "doors",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_3506be37befa",
+            "file": "uploads/gallery/eska_recent_3506be37befa.jpeg",
+            "title": "Modern Steel Security Door",
+            "category": "doors",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_a7fe4e721606",
+            "file": "uploads/gallery/eska_recent_a7fe4e721606.jpeg",
+            "title": "Modern Cantilever Car Canopy",
+            "category": "shades",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_a21a044163a7",
+            "file": "uploads/gallery/eska_recent_a21a044163a7.jpeg",
+            "title": "Double-Cantilever Car Shade Frame",
+            "category": "shades",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_cbe105426f3d",
+            "file": "uploads/gallery/eska_recent_cbe105426f3d.jpeg",
+            "title": "Polycarbonate Canopy Walkway",
+            "category": "shades",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_5dc75893660d",
+            "file": "uploads/gallery/eska_recent_5dc75893660d.jpeg",
+            "title": "Arched Canvas Car Parking Shelter",
+            "category": "shades",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_be782190f7d6",
+            "file": "uploads/gallery/eska_recent_be782190f7d6.jpeg",
+            "title": "Architectural Outdoor Gazebo",
+            "category": "shades",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_2af8e31afa30",
+            "file": "uploads/gallery/eska_recent_2af8e31afa30.jpeg",
+            "title": "Modern Waterproof Fabric Car Shade",
+            "category": "shades",
+            "uploaded": "2026-07-04 12:42:46"
+        },
+        {
+            "id": "recent_80158d9c1936",
+            "file": "uploads/gallery/eska_recent_80158d9c1936.jpeg",
+            "title": "Heavy-Duty Double Cantilever Shelter",
+            "category": "shades",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_42c09c2c0354",
+            "file": "uploads/gallery/eska_recent_42c09c2c0354.jpeg",
+            "title": "Premium Wrought Iron Balustrade",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_cb5a85279960",
+            "file": "uploads/gallery/eska_recent_cb5a85279960.jpeg",
+            "title": "Curved Wrought Iron Balcony Railing",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_45c73cc0e860",
+            "file": "uploads/gallery/eska_recent_45c73cc0e860.jpeg",
+            "title": "Custom Metal Fabrication",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_c7aa3fd17eda",
+            "file": "uploads/gallery/eska_recent_c7aa3fd17eda.jpeg",
+            "title": "Custom Metal Fabrication",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_2487dc6fc07e",
+            "file": "uploads/gallery/eska_recent_2487dc6fc07e.jpeg",
+            "title": "Geometric Balustrade with Circular Accents",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_b94ef6d255c9",
+            "file": "uploads/gallery/eska_recent_b94ef6d255c9.jpeg",
+            "title": "Modern Curved Staircase Handrail",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_e4b4d8caf119",
+            "file": "uploads/gallery/eska_recent_e4b4d8caf119.jpeg",
+            "title": "Elegant Staircase Metal Railing",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_91aeff743190",
+            "file": "uploads/gallery/eska_recent_91aeff743190.jpeg",
+            "title": "Custom Metal Fabrication",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_6444069730d7",
+            "file": "uploads/gallery/eska_recent_6444069730d7.jpeg",
+            "title": "Custom Metal Fabrication",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_53b1b62777ca",
+            "file": "uploads/gallery/eska_recent_53b1b62777ca.jpeg",
+            "title": "Contemporary Geometric Handrail",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_add8a8e023b3",
+            "file": "uploads/gallery/eska_recent_add8a8e023b3.jpeg",
+            "title": "Custom Metal Fabrication",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_d7dd88792621",
+            "file": "uploads/gallery/eska_recent_d7dd88792621.jpeg",
+            "title": "Custom Metal Fabrication",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_ff511516357c",
+            "file": "uploads/gallery/eska_recent_ff511516357c.jpeg",
+            "title": "Geometric Security Window Grille",
+            "category": "windows",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_260df828ca2b",
+            "file": "uploads/gallery/eska_recent_260df828ca2b.jpeg",
+            "title": "Industrial Metal Canopy Structure",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_808e44ea653f",
+            "file": "uploads/gallery/eska_recent_808e44ea653f.jpeg",
+            "title": "Premium Laser-Cut Balcony Railings",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_5c1cf823184d",
+            "file": "uploads/gallery/eska_recent_5c1cf823184d.jpeg",
+            "title": "Custom Metal Fabrication",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        },
+        {
+            "id": "recent_465fd0742e6c",
+            "file": "uploads/gallery/eska_recent_465fd0742e6c.jpeg",
+            "title": "Premium Custom Steel Handrail",
+            "category": "custom",
+            "uploaded": "2026-07-04 12:42:47"
+        }
+    ]
+}

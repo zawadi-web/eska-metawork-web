@@ -1,0 +1,65 @@
+[
+    {
+        "date": "2026-05-10 14:48:12",
+        "name": "Jane Doe",
+        "email": "jane@example.com",
+        "phone": "0799999999",
+        "service": "Structural Steel",
+        "message": "Another test message to ensure success response",
+        "emailed": false
+    },
+    {
+        "date": "2026-05-10 14:52:56",
+        "name": "fadhili",
+        "email": "fadhili01360@gmail.com",
+        "phone": "0113258881",
+        "service": "Structural Steel",
+        "message": "edfghjkl;l,mnbvcdertyhjkl",
+        "emailed": false
+    },
+    {
+        "date": "2026-05-10 15:13:21",
+        "name": "fadhili",
+        "email": "fadhili01360@gmail.com",
+        "phone": "1234589",
+        "service": "Structural Steel",
+        "message": "test message",
+        "emailed": false
+    },
+    {
+        "date": "2026-05-10 15:39:48",
+        "name": "Fadhili Muthuri",
+        "email": "fadhilimuthuri448@gmail.com",
+        "phone": "1234567",
+        "service": "Structural Steel",
+        "message": "test email",
+        "emailed": false
+    },
+    {
+        "date": "2026-05-12 06:34:37",
+        "name": "Gift Mukhwana",
+        "email": "giftmukhwana@gmail.com",
+        "phone": "0769047490",
+        "service": "Welding",
+        "message": "Would like it by tomorrow",
+        "emailed": false
+    },
+    {
+        "date": "2026-05-12 06:35:31",
+        "name": "Elcie",
+        "email": "chepkwonyelcie@gmail.com",
+        "phone": "0769047490",
+        "service": "Welding",
+        "message": "Was intrested in the price",
+        "emailed": false
+    },
+    {
+        "date": "2026-05-12 10:17:22",
+        "name": "fadhili",
+        "email": "fadhili01360@gmail.com",
+        "phone": "0113258881",
+        "service": "Structural Steel",
+        "message": "test email",
+        "emailed": false
+    }
+]

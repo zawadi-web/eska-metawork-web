@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Request a Quote | ESKA Metalworks</title>
+  <meta name="description" content="Request a quote for steel fabrication, welding, or custom metalwork from ESKA Metalworks in Kikuyu, Kenya.">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/slider.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+
+  <nav class="navbar">
+    <div class="navbar__inner">
+      <a href="index.html" class="navbar__logo">
+        <div class="navbar__logo-icon">E</div>
+        <div class="navbar__logo-text">
+          <span class="navbar__logo-name">ESKA</span>
+          <span class="navbar__logo-sub">Metalworks</span>
+        </div>
+      </a>
+      <div class="navbar__links">
+        <a href="index.html" class="navbar__link">Home</a>
+        <a href="about.html" class="navbar__link">About</a>
+        <a href="services.html" class="navbar__link">Services</a>
+        <a href="projects.html" class="navbar__link">Projects</a>
+      </div>
+      <a href="quote.html" class="navbar__cta">Get a Quote</a>
+      <div class="navbar__hamburger"><span></span><span></span><span></span></div>
+    </div>
+  </nav>
+
+  <div class="navbar__mobile">
+    <a href="index.html" class="navbar__link">Home</a>
+    <a href="about.html" class="navbar__link">About</a>
+    <a href="services.html" class="navbar__link">Services</a>
+    <a href="projects.html" class="navbar__link">Projects</a>
+    <a href="quote.html" class="btn btn-primary" style="margin-top:1rem;">Get a Quote</a>
+  </div>
+
+  <section class="page-hero">
+    <div class="page-hero__bg" style="background-image:url('images/service-welding.jpg');"></div>
+    <div class="page-hero__overlay"></div>
+    <div class="container page-hero__content">
+      <span class="page-hero__tag">Get in Touch</span>
+      <h1 class="page-hero__title">Request a <span class="accent">Quote</span></h1>
+      <p class="page-hero__desc">Tell us about your metalwork needs and we’ll prepare a detailed estimate for your project.</p>
+    </div>
+  </section>
+
+  <section class="section section--dark">
+    <div class="container grid-2">
+      <div class="animate-on-scroll from-left">
+        <span class="section-tag">Quote Request</span>
+        <h2 class="section-title">Quick <span>Estimate</span></h2>
+        <p style="margin-bottom: var(--space-8);">Use the form to request pricing for steel fabrication, welding, custom metalwork or installation services.</p>
+
+        <div class="footer__contact-item" style="margin-bottom: var(--space-4);">
+          <i class="fas fa-map-marker-alt footer__contact-icon" style="font-size: 1.2rem;"></i>
+          <div class="footer__contact-text" style="font-size: var(--text-base);">
+            <strong>ESKA Metalworks</strong><br>
+            Kikuyu, Kenya
+          </div>
+        </div>
+        <div class="footer__contact-item" style="margin-bottom: var(--space-4);">
+          <img src="images/icons/phone.svg" class="app-icon" alt="Phone">
+          <div class="footer__contact-text" style="font-size: var(--text-base);">
+            <a href="tel:+254708433265" class="contact-phone-link"><span class="contact-phone-text">+254 708 433 265</span></a>
+          </div>
+        </div>
+        <div class="footer__contact-item">
+          <img src="images/icons/whatsapp.svg" class="app-icon" alt="WhatsApp">
+          <div class="footer__contact-text" style="font-size: var(--text-base);">
+            <a href="https://wa.me/254708433265" class="contact-whatsapp-link" target="_blank" rel="noopener noreferrer">Chat on WhatsApp</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="animate-on-scroll from-right">
+        <form id="contact-form" action="api/contact.php" method="POST" class="contact-form">
+          <div class="form-group--row">
+            <div class="form-group">
+              <label>Name</label>
+              <input type="text" name="name" required placeholder="Your Name">
+            </div>
+            <div class="form-group">
+              <label>Phone</label>
+              <input type="tel" name="phone" required placeholder="Your Phone Number">
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Email</label>
+            <input type="email" name="email" required placeholder="Your Email Address">
+          </div>
+          <div class="form-group">
+            <label>Service Required</label>
+            <select name="service">
+              <option value="">Select a service...</option>
+              <option value="Structural Steel">Structural Steel</option>
+              <option value="Welding">Welding Services</option>
+              <option value="Custom Fabrication">Custom Fabrication</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Message</label>
+            <textarea name="message" required placeholder="Tell us about your project..."></textarea>
+          </div>
+          <input type="text" name="_gotcha" class="honeypot">
+          <button type="submit" class="btn btn-primary" style="justify-self: start;">Send Message</button>
+          <div id="form-msg" class="form-msg"></div>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div class="animate-on-scroll delay-1">
+          <a href="index.html" class="navbar__logo" style="margin-bottom: var(--space-4);">
+            <div class="navbar__logo-icon">E</div>
+            <div class="navbar__logo-text">
+              <span class="navbar__logo-name">ESKA</span>
+              <span class="navbar__logo-sub">Metalworks</span>
+            </div>
+          </a>
+          <p class="footer__brand-desc">Premium steel fabrication and welding services in Kikuyu, Kenya. Built with strength, precision, and integrity.</p>
+        </div>
+        <div class="animate-on-scroll delay-2">
+          <h4 class="footer__heading">Quick Links</h4>
+          <div class="footer__links">
+            <a href="index.html" class="footer__link"><i class="fas fa-chevron-right"></i> Home</a>
+            <a href="about.html" class="footer__link"><i class="fas fa-chevron-right"></i> About Us</a>
+            <a href="services.html" class="footer__link"><i class="fas fa-chevron-right"></i> Services</a>
+            <a href="projects.html" class="footer__link"><i class="fas fa-chevron-right"></i> Projects</a>
+            <a href="quote.html" class="footer__link"><i class="fas fa-chevron-right"></i> Get a Quote</a>
+          </div>
+        </div>
+        <div class="animate-on-scroll delay-3">
+          <h4 class="footer__heading">Services</h4>
+          <div class="footer__links">
+            <a href="services.html" class="footer__link"><i class="fas fa-chevron-right"></i> Structural Steel</a>
+            <a href="services.html" class="footer__link"><i class="fas fa-chevron-right"></i> Welding</a>
+            <a href="services.html" class="footer__link"><i class="fas fa-chevron-right"></i> Custom Fab</a>
+            <a href="services.html" class="footer__link"><i class="fas fa-chevron-right"></i> Installation</a>
+          </div>
+        </div>
+        <div class="animate-on-scroll delay-4">
+          <h4 class="footer__heading">Contact</h4>
+          <div class="footer__contact-item">
+            <img src="images/icons/phone.svg" class="app-icon" alt="Phone">
+            <div class="footer__contact-text">
+              <a href="tel:+254708433265" class="contact-phone-link"><span class="contact-phone-text">0708 433 265</span></a>
+            </div>
+          </div>
+          <div class="footer__contact-item">
+            <img src="images/icons/whatsapp.svg" class="app-icon" alt="WhatsApp">
+            <div class="footer__contact-text">
+              <a href="https://wa.me/254708433265" class="contact-whatsapp-link" target="_blank" rel="noopener noreferrer"><span class="contact-phone-text">0708 433 265</span></a>
+            </div>
+          </div>
+          <div class="footer__contact-item">
+            <img src="images/icons/email.svg" class="app-icon" alt="Email">
+            <div class="footer__contact-text">
+              <a href="mailto:hello@eskametalworks.co.ke" class="contact-email-link"><span class="contact-email-text">hello@eskametalworks.co.ke</span></a>
+            </div>
+          </div>
+          <div class="footer__contact-item">
+            <i class="fas fa-map-marker-alt footer__contact-icon"></i>
+            <div class="footer__contact-text">Kikuyu, Kenya</div>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <div class="footer__copy">
+          &copy; 2026 ESKA Metalworks. All Rights Reserved.
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <div class="fab-group">
+    <a href="https://wa.me/254708433265" class="fab fab-whatsapp contact-whatsapp-link" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Us">
+      <img src="images/icons/whatsapp.svg" class="app-icon" alt="WhatsApp"><span class="fab-tooltip">WhatsApp Us</span>
+    </a>
+    <a href="tel:+254708433265" class="fab fab-phone contact-phone-link" aria-label="Call Us">
+      <img src="images/icons/phone.svg" class="app-icon" alt="Phone"><span class="fab-tooltip">Call Us</span>
+    </a>
+    <a href="mailto:hello@eskametalworks.co.ke" class="fab fab-email contact-email-link" aria-label="Email Us">
+      <img src="images/icons/email.svg" class="app-icon" alt="Email"><span class="fab-tooltip">Email Us</span>
+    </a>
+  </div>
+
+  <button id="back-top" class="fab fab-top" style="position:fixed; bottom:var(--space-8); left:var(--space-6); background:var(--color-dark-4); opacity:0; pointer-events:none; box-shadow:none;" aria-label="Back to Top">
+    <i class="fas fa-chevron-up"></i>
+  </button>
+
+  <script src="js/main.js"></script>
+  <script src="js/slider.js"></script>
+  <script src="js/form.js"></script>
+  <script src="js/settings-loader.js"></script>
+</body>
+
+</html>

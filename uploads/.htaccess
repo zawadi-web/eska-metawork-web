@@ -1,0 +1,6 @@
+# ESKA Metalworks – Deny PHP execution in uploads/
+<FilesMatch "\.php[0-9]?$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+</FilesMatch>
